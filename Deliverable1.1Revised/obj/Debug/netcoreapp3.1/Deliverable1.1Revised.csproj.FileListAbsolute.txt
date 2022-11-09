@@ -1,0 +1,5 @@
+/Users/allisonjones/Projects/Deliverable1.1Revised/Deliverable1.1Revised/obj/Debug/netcoreapp3.1/Deliverable1.1Revised.csproj.AssemblyReference.cache
+/Users/allisonjones/Projects/Deliverable1.1Revised/Deliverable1.1Revised/obj/Debug/netcoreapp3.1/Deliverable1.1Revised.GeneratedMSBuildEditorConfig.editorconfig
+/Users/allisonjones/Projects/Deliverable1.1Revised/Deliverable1.1Revised/obj/Debug/netcoreapp3.1/Deliverable1.1Revised.AssemblyInfoInputs.cache
+/Users/allisonjones/Projects/Deliverable1.1Revised/Deliverable1.1Revised/obj/Debug/netcoreapp3.1/Deliverable1.1Revised.AssemblyInfo.cs
+/Users/allisonjones/Projects/Deliverable1.1Revised/Deliverable1.1Revised/obj/Debug/netcoreapp3.1/Deliverable1.1Revised.csproj.CoreCompileInputs.cache
